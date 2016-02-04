@@ -4,7 +4,7 @@
 
 Submitted by: **Minh Dinh**
 
-Time spent: **X** hours spent in total
+Time spent: **12** hours spent in total
 
 URL: https://desolate-mountain-23525.herokuapp.com/articles
 
@@ -33,17 +33,14 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-> HINT: You can put a `walkthrough.gif` file in your project folder, add to git, and use the following syntax to embed it:  
-> `![Video Walkthrough](walkthrough.gif)` 
-> 
-
-![Video Walkthrough](/path/to/your/gif/file)
+![Video Walkthrough](myBlog.gif)
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+I have to learn some languages at the same time
 
 ## License
 
