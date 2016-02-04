@@ -6,7 +6,7 @@ Submitted by: **Minh Dinh**
 
 Time spent: **X** hours spent in total
 
-URL: **Insert your Heroku URL here**
+URL: https://desolate-mountain-23525.herokuapp.com/articles
 
 ## User Stories
 
@@ -14,7 +14,7 @@ The following **required** functionality is complete:
 
 * [x] User can create a new post, formatted using the Markdown language.
 * [x] User can edit an existing post.
-* [ ] There is one post that introduces the App Creator with name, picture.
+* [x] There is one post that introduces the App Creator with name, picture.
 * [x] User can delete stories, with an alert that asks the user to confirm.
 * [x] User see a search form on the Posts page.
 * [x] User can submit a search term to find all posts bywith titles containing the search term.
@@ -27,6 +27,7 @@ The following **optional** features are implemented:
 
 The following **additional** features are implemented:
 - [x] Search with case insensitive
+- [x] Change the root path to '/articles'
 
 ## Video Walkthrough 
 
